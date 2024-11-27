@@ -1,4 +1,4 @@
-print("file 1 in master")
+print("file 1 in branch1")
 # git init
 # git add .
 # git commit -m "Initial commit added all the files"
